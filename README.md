@@ -1,7 +1,9 @@
 # Machine Learning Capstone Project
 
 **Course:** 23CSE301 Machine Learning, B.Tech. (CSE) III Year, Academic Year 2026-27
+
 **Team members:** Kuna Baby Kali Priya , Reddy Srija , Sai Krishna
+
 **Live app:** https://ml-capstone-23cse301.streamlit.app/
 
 An end-to-end machine learning pipeline for three problem tracks: **Regression**, **Classification** and **Clustering**. Each track covers data loading, EDA, cleaning and feature engineering, model training and comparison, hyperparameter tuning and result visualisation. A Streamlit web app lets anyone try the trained models.
